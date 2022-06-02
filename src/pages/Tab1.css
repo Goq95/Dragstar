@@ -1,0 +1,27 @@
+
+.logo-big {
+    height: 200px;
+}
+
+.start-btn {
+    width: 100%;
+    position: absolute;
+    bottom: 70px;
+}
+
+
+.countDown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.countDown span {
+    font-size: 50px;
+}
+
+.race-details {
+    font-size: 25px;
+    list-style: none;
+}
